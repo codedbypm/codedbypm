@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Golang and Terraform for Google Cloud Platform
 - 💞️ I’m looking to collaborate on 🧠-💻 Interfaces 
 - 📫 How to reach me: paolo@codedby.pm
+- 🤌
 
 <!---
 codedbypm/codedbypm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
